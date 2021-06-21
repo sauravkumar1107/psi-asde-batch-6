@@ -4,10 +4,9 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
-/target
-
 # Other files and folders
 .settings/
+target/
 
 # Executables
 *.swf
